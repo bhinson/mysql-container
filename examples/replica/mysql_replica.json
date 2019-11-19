@@ -108,8 +108,7 @@
         ],
         "selector": {
           "name": "mysql-master"
-        },
-        "clusterIP": "None"
+        }
       }
     },
     {
@@ -129,8 +128,7 @@
         ],
         "selector": {
           "name": "mysql-slave"
-        },
-        "clusterIP": "None"
+        }
       }
     },
     {
